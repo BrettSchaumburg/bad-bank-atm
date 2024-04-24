@@ -10,6 +10,7 @@ The balance page displays name and current balance.
 The AllData page displays all transactions that the users has performed since logging in.
 
 Thanks for checking this out!
+
 -Brett Schaumburg
 
 MIT License Copyright 2024
