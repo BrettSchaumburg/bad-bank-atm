@@ -5,7 +5,7 @@ function Home() {
             txtcolor = "white"
             header = "Bad Bank Landing Page"
             title = "Welcome to the Bad Bank!"
-            text = "You can use this bank"
+            text = "Proceed to use the ATM"
             body = {(<img src="bank.png" className="img-fluid" alt="responsive image"/>)}        
         
         />

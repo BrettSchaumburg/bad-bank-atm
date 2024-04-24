@@ -33,7 +33,7 @@ function Balance() {
                         <div >
                             <h1>Welcome: {getUser()}</h1>
                             <br/>
-                            <h1>Balance: {getBalance()}</h1>
+                            <h1>Balance: ${getBalance()}</h1>
                             
                         </div>
                     <br/>
